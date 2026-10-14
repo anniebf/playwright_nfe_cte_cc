@@ -1,0 +1,9 @@
+{
+"contabilista" : "MT013180OO7",
+"senha_contabilista" : "202020",
+"execucao_1" : "03",
+"execucao_2" : "20",
+"execucao_3" : "28",
+"limite_dias_exec1": "05",
+"tentativas_captchas": 5
+}
